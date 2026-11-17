@@ -2,6 +2,10 @@
 
 This repository has been initialized as a minimal Python project scaffold.
 
+## Link to Presentation
+
+The link to the Google Slides presentation can be found [here](https://docs.google.com/presentation/d/1BEyIbLPD6UlyYhsDJ838p4-Ww57rmlNWesifmtHE21g/edit?usp=sharing)
+
 ## Getting started
 
 1. Create and activate a virtual environment.
